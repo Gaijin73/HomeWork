@@ -16,7 +16,7 @@ public class Worker {
 
     public void itemBragging() {
         for (Item item : items) {
-            System.out.printf("%s: смотрите какая у меня вещь - %s%n" , name , item.getName());
+            System.out.printf("%s: смотрите какая у меня вещь - %s%n", name ,item.getName());
         }
     }
 
