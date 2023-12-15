@@ -1,8 +1,8 @@
 package org.example.homework.lesson5_6.ex4;
 
-import org.example.homework.lesson5_6.HomeWork3;
+public class LotteryTicket {
+    static int ticketNumber = 0;
 
-public class LotteryTicket extends HomeWork3 {
     public int checkLuck() {
         ticketNumber++;
 

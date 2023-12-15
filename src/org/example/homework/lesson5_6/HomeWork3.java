@@ -5,10 +5,11 @@ import org.example.homework.lesson5_6.ex1.Pine;
 import org.example.homework.lesson5_6.ex1.Spruce;
 import org.example.homework.lesson5_6.ex1.Tree;
 import org.example.homework.lesson5_6.ex2.*;
+import org.example.homework.lesson5_6.ex3.Pyramid1;
+import org.example.homework.lesson5_6.ex3.Pyramid2;
 import org.example.homework.lesson5_6.ex4.LotteryTicket;
 
 public class HomeWork3 {
-    protected static int ticketNumber = 0;
 
     public static void main(String[] args) {
         //В этом дз уже будет проверятся наличие корректных модификаторов доступа

@@ -1,12 +1,12 @@
 package org.example.homework.lesson5_6.ex1;
 
 public class Deciduous extends Tree {
-    private boolean leaves;
-    private boolean blooms;
+    private boolean hasLeaves;
+    private boolean hasBlooms;
 
     protected Deciduous(int age, boolean leaves, boolean blooms) {
         super(age);
-        this.leaves = leaves;
-        this.blooms = blooms;
+        this.hasLeaves = leaves;
+        this.hasBlooms = blooms;
     }
 }
