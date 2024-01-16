@@ -17,7 +17,6 @@ public class Runner {
         ArrayList<Integer> listSecond = new ArrayList<>(Arrays.asList(7,10));
         ArrayList<Integer> finishList =  new ArrayList<>();
 
-
         finishList.addAll(listFirst);
         finishList.addAll(listSecond);
 

@@ -32,6 +32,5 @@ public class Runner {
         System.out.println(warehouse);
         warehouse.removeAllButLast();
         System.out.println(warehouse);
-
     }
 }
