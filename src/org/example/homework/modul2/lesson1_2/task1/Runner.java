@@ -4,6 +4,8 @@ import org.example.homework.modul2.lesson1_2.task1.animal.Bird;
 import org.example.homework.modul2.lesson1_2.task1.animal.Dog;
 import org.example.homework.modul2.lesson1_2.task1.animal.Tiger;
 
+import java.util.HashMap;
+
 public class Runner {
     /**
      * Задание №1 Зоопарк
