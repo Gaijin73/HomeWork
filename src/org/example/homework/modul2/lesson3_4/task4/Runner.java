@@ -14,7 +14,7 @@ public class Runner {
         Burn<Wood> bonfire = uranium
                 -> System.out.println("желто-красный свет вокруг!");
 
-        atomicReactor.burning(new Uranium());
-        bonfire.burning(new Wood());
+        atomicReactor.accept(new Uranium());
+        bonfire.accept(new Wood());
     }
 }
