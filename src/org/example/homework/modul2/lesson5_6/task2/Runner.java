@@ -2,6 +2,9 @@ package org.example.homework.modul2.lesson5_6.task2;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.Optional;
+import java.util.concurrent.atomic.AtomicInteger;
+import java.util.stream.Stream;
 
 /**
  * Задание №2 - Сколько здесь "о" ?
